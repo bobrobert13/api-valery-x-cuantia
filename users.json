@@ -1,0 +1,154 @@
+[
+    {
+        "email": "admin@admin.com",
+        "key": "admin-00",
+        "password": "$2a$10$PERY8DfF2I.NdYCUByuY1u0YC1d62MY4p7eWTMDgquWIl9ntynvCe",
+        "role": [
+            "superAdmin"
+        ]
+    },
+    {
+        "email": "admin01@inventory.com",
+        "key": "admin-01",
+        "password": "$2a$10$B.YIlMydKmVbZIw.gK0taOAuxzQhcqaiOKIGCjBVgkrYS2zXtNvHi",
+        "role": [
+            "admin"
+        ]
+    },
+    {
+        "email": "admin02@inventory.com",
+        "key": "admin-02",
+        "password": "$2a$10$g5fKvKTh/CJrvK4RUjKeve7/Nsq71m5ZIT0mQoG/au20a9HMQYV3O",
+        "role": [
+            "admin"
+        ]
+    },
+    {
+        "email": "user-01@inventory.com",
+        "key": "user-01",
+        "password": "$2a$10$Lr1zhpWDkwlLXLY2FnxpG.fsaUZxI2fZT7ZQiEDPATjf.57joLCrK",
+        "role": [
+            "user"
+        ]
+    },
+    {
+        "email": "user-02@inventory.com",
+        "key": "user-02",
+        "password": "$2a$10$CQnzdDHlvwVlPdRMaIxl4OgGgsk1byleljH4i2.K4EVYyDVLVbfem",
+        "role": [
+            "user"
+        ]
+    },
+    {
+        "email": "user-03@inventory.com",
+        "key": "user-03",
+        "password": "$2a$10$Z5.2c5QncJqRdJeYl1M7POl2RCdDALisoVSTzX.gzYeKnMZIJ8FjK",
+        "role": [
+            "user"
+        ]
+    },
+    {
+        "email": "user-04@inventory.com",
+        "key": "user-04",
+        "password": "$2a$10$8oBODZ78Xo86EUQKlxP9Ke5eZXOJHkwxeFOGfnKItU/W8dGkX8tde",
+        "role": [
+            "user"
+        ]
+    },
+    {
+        "email": "user-05@inventory.com",
+        "key": "user-05",
+        "password": "$2a$10$SCAhf1GEjV1qlKoXRj731uhgLao7n/NT.HBoB.Y.1dKhMXlXnqOKO",
+        "role": [
+            "user"
+        ]
+    },
+    {
+        "email": "user-06@inventory.com",
+        "key": "user-06",
+        "password": "$2a$10$xuEnNNffan89oXjaA.25e.OWmJXwkSaMDKUYUQ0Z1QAepqpb7obzK",
+        "role": [
+            "user"
+        ]
+    },
+    {
+        "email": "user-07@inventory.com",
+        "key": "user-07",
+        "password": "$2a$10$AX9/cUrcW9Ds71C/dXiFw..HLz5keUdu3eDp3tzug9BqBf/qOj6ju",
+        "role": [
+            "user"
+        ]
+    },
+    {
+        "email": "user-08@inventory.com",
+        "key": "user-08",
+        "password": "$2a$10$c4.5vn9NcxeuiJ8Ouqq48OzsaYfQ9v1eKeljsxS9h68.7vpJw6ZFS",
+        "role": [
+            "user"
+        ]
+    },
+    {
+        "email": "user-09@inventory.com",
+        "key": "user-09",
+        "password": "$2a$10$6NE6CBge//W0Qjrv08hqe.o5azDuhECvp3D1Wp/5w4mOQWsXHXboS",
+        "role": [
+            "user"
+        ]
+    },
+    {
+        "email": "user-10@inventory.com",
+        "key": "user-10",
+        "password": "$2a$10$/Kgcv05tpvBeAOOB1vI8w.e1dqqZ1NcJCC28IrDy.qIKV4qM2m9Y2",
+        "role": [
+            "user"
+        ]
+    },
+    {
+        "email": "user-11@inventory.com",
+        "key": "user-11",
+        "password": "$2a$10$2eCRoG5.UTX9tJcIru9w2e34aqc2tYk3wyRV/n5LaIQKoU3/HUlh6",
+        "role": [
+            "user"
+        ]
+    },
+    {
+        "email": "user-12@inventory.com",
+        "key": "user-12",
+        "password": "$2a$10$BFWlrrGw/77TdGN7HiwktO5V/4UiHz9bmWlXeyrAzvAiFhmZeCTyK",
+        "role": [
+            "user"
+        ]
+    },
+    {
+        "email": "user-13@inventory.com",
+        "key": "user-13",
+        "password": "$2a$10$lEZxP4hnnbRPcoAKouGuyOhUr.bMqN2Ukl4ZtUuO01s3iweUCfXdK",
+        "role": [
+            "user"
+        ]
+    },
+    {
+        "email": "user-14@inventory.com",
+        "key": "user-14",
+        "password": "$2a$10$LOVreJavC7hJwSu//vK0KejmLWZ.3nF5nCa8crkL84zgBx7fJQ7HO",
+        "role": [
+            "user"
+        ]
+    },
+    {
+        "email": "user-15@inventory.com",
+        "key": "user-15",
+        "password": "$2a$10$XvGmoGG1hyXOFJljkNlGNeuftHWXkCbAQLatQ7z.wmhzlPRx/I23q",
+        "role": [
+            "user"
+        ]
+    },
+    {
+        "email": "visor@cuantia.com",
+        "key": "visor-cuantia",
+        "password": "$2a$10$s2Fnaczdxhc/ELEHS7p/jOUxEH1ksCJaTqrUZTOiPfugOCLEOyuGK",
+        "role": [
+            "visor"
+        ]
+    }
+]
